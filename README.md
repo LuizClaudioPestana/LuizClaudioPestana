@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luiz Cláudio Pestana</h1>
-<h3 align="center">I'm a Quality Assurance Software specialist, Data science/analytics and Business Intelligence(BI) scholar.</h3>
+<h3 align="center">I'm a Quality Assurance Software specialist. Data science/analytics and Business Intelligence(BI) scholar.</h3>
 <br>
 - 🌱 I’m currently learning **Test automation, Data analysis and visualization.**
 
