@@ -3,7 +3,7 @@
 <br>
 - 🌱 I’m currently learning **Test automation.**
 <br>
-- 🔭 I’m currently working at Justa Fintech.
+- 🔭 I’m currently working at Recrut.AI.
 
 - 📫 How to reach me **luiz.cp14@gmail.com**
 
