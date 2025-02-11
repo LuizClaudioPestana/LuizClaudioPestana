@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Luiz Cláudio Pestana</h1>
-<h3 align="center">I'm a Quality Assurance Software.</h3>
+<h3 align="center">I'm a Software Engineer - QA Automation.</h3>
 <br>
 - 🌱 I’m currently learning **Test automation.**
 <br>
-- 🔭 I’m currently working at Recrut.AI.
+- 🔭 I’m currently working at FCxLabs - Ferreira Costa.
 
 - 📫 How to reach me **luiz.cp14@gmail.com**
 
