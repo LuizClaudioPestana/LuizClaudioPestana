@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luiz Cláudio Pestana</h1>
 <h3 align="center">I'm a Software QA Engineer.</h3>
 <br>
-- 🌱 I’m focused on **Test automation** strategies. 
+- 🌱 I’m focused on ** Test automation ** strategies. 
 <br>
 - 🔭 I’m currently working at Quality Digital.
 
